@@ -11,8 +11,20 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 Their revenue management team had decided to hire a 3rd party service provider to provide them with insights from their historical data.
 
 Data Analysis
+Steps:
 
+1. Understood the key business terminologies of Hospitality domain.
+2. Understood the requirements by going through the requirements document which had details of the key indicators what do they mean and what the revenue team needs in the dasboard. 
+3. Loaded the data from CSV files and used power query to load and transform the data.
+4. Created the data model i.e. established the relationship among the tables and the result was a Star Schema.
+5. Created measures for all the KPI's using DAX.
+6. Designed the dashboard to gain insight. 
 
+Interesting learning:
+
+1. WoW change measure is a very useful measure which tells us the change in business week on week basis.
+2. Used tooltip with the KPI's to show trends on weekly basis for all the months.
+3. How conditional formating can be used to create interactive dashboard (week on week basis increase and decrease in KPI's).
 
 Dashboard
 
