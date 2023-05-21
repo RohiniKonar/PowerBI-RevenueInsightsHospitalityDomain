@@ -16,6 +16,6 @@ Data Analysis
 
 Dashboard
 
-![image](https://github.com/RohiniKonar/RevenueInsightsHospitalityDomain/assets/32761695/cfc1acbd-13df-4284-8e53-ab580e53687c)
+![image](https://github.com/RohiniKonar/RevenueInsightsHospitalityDomain/assets/32761695/f1b72a25-a663-4bce-91f4-2c71b917fb08)
 
 Insights
