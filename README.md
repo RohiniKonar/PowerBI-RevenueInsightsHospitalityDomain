@@ -20,11 +20,6 @@ Steps:
 5. Created measures for all the KPI's using DAX.
 6. Designed the dashboard to gain insight. 
 
-Interesting learning:
-
-1. WoW change measure is a very useful measure which tells us the change in business week on week basis.
-2. Used tooltip with the KPI's to show trends on weekly basis for all the months.
-3. How conditional formating can be used to create interactive dashboard (week on week basis increase and decrease in KPI's).
 
 Dashboard
 
@@ -32,3 +27,9 @@ Dashboard
 
 
 Insights
+
+Interesting learning:
+
+1. WoW change measure is a very useful measure which tells us the change in business week on week basis.
+2. Used tooltip with the KPI's to show trends on weekly basis for all the months.
+3. How conditional formating can be used to create interactive dashboard (week on week basis increase and decrease in KPI's).
