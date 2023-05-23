@@ -16,20 +16,37 @@ Steps:
 1. Understood the key business terminologies of Hospitality domain.
 2. Understood the requirements by going through the requirements document which had details of the key indicators what do they mean and what the revenue team needs in the dasboard. 
 3. Loaded the data from CSV files and used power query to load and transform the data.
-4. Created the data model i.e. established the relationship among the tables and the result was a Star Schema.
-5. Created measures for all the KPI's using DAX.
-6. Designed the dashboard to gain insight. 
+4. As the Hospitality industry considers Friday and Saturday as weekends created calculated columns for day type (Weekend, Weekday).
+5. Created the data model i.e. established the relationship among the tables and the result was a Star Schema.
+6. Created measures for all the KPI's using DAX.
+7. Designed the dashboard to provide Level 1 analysis. 
 
 
 Dashboard:
 
-![image](https://github.com/RohiniKonar/RevenueInsightsHospitalityDomain/assets/32761695/0c6fd646-d4d3-471d-b757-47c00a2e8f79)
+![image](https://github.com/RohiniKonar/RevenueInsightsHospitalityDomain/assets/32761695/e1612743-fc50-4e64-8bea-4a8fad32192f)
 
 Tolltip:
 
 ![image](https://github.com/RohiniKonar/RevenueInsightsHospitalityDomain/assets/32761695/ee0867a2-c9ff-4f19-8606-91105b23c7e8)
 
-Insights
+
+Insights:
+1. Looking at the Trend by Key metrics visual it is clear that the ADR (Average Daily Rate) is not changing which meand AtliQ Grands does not have a dynamic pricing strategy. They sell the rooms at a flat price/fixed price irrespective of the day or city. 
+2. The weekend and weekday key metrics table clearly stated that AtliQ Grands has not implemented a weekend/weekday pricing strategy. They are selling rooms for the same price for a weekend and a weekday.
+3. There is a correlation between occupancy and rating i.e. we can look at the Property by Key metrics table and understand that if there is a low rating we can observe that occupancy% is also less.
+4. Cancellation rate is higher for the hotels that have low rating so there is a relation between the ratings and cancellation rate.
+5. AtliQ Grands does not use referencial pricing strategy i.e. they are selling on the highest price (ADR highest) on direct offline.
+6. AtliQ Grands can also lower the prices on direct online channel i.e. own website as there is no commission they need to pay.
+
+Actions/Recommendation for Revenue Team:
+1. AtliQ Grands should use a dynamic pricing strategy and not run business with flat pricing.
+2. AtliQ Grands should implement a weekend/weekday pricing strategy.
+3. AtliQ Grands should work on the hotels which have the lowest ratings and look for opportunities or the business model that higest rating hotels use.
+4. On improving the services for the hotels with lowest ratings the cancellation rate can also be improved because there is a direct relation between ratings and cancellation.
+5. AtliQ Grands should use referencial pricing i.e. they should sell rooms on the lowest price on Direct Online which positively impacts on the revenue.
+6. AtliQ Grands should sell thier rooms on comparatively less price on the online platform i.e. by using discount coupons so that the price comparison platform do not impact the choice when a customer performs a search.
+
 
 Interesting learning:
 
