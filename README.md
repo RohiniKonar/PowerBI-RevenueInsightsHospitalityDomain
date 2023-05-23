@@ -24,7 +24,8 @@ Steps:
 
 Dashboard:
 
-![image](https://github.com/RohiniKonar/RevenueInsightsHospitalityDomain/assets/32761695/e1612743-fc50-4e64-8bea-4a8fad32192f)
+![image](https://github.com/RohiniKonar/RevenueInsightsHospitalityDomain/assets/32761695/bd218cec-5b02-4a13-93e9-d83638b69e46)
+
 
 Tolltip:
 
