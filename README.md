@@ -27,7 +27,7 @@ Dashboard:
 
 Tolltip:
 
-![image](https://github.com/RohiniKonar/RevenueInsightsHospitalityDomain/assets/32761695/d8281f36-fa7e-4475-be03-1b6bea41ab9a)
+![image](https://github.com/RohiniKonar/RevenueInsightsHospitalityDomain/assets/32761695/ee0867a2-c9ff-4f19-8606-91105b23c7e8)
 
 Insights
 
