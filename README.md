@@ -21,10 +21,13 @@ Steps:
 6. Designed the dashboard to gain insight. 
 
 
-Dashboard
+Dashboard:
 
 ![image](https://github.com/RohiniKonar/RevenueInsightsHospitalityDomain/assets/32761695/0c6fd646-d4d3-471d-b757-47c00a2e8f79)
 
+Tolltip:
+
+![image](https://github.com/RohiniKonar/RevenueInsightsHospitalityDomain/assets/32761695/d8281f36-fa7e-4475-be03-1b6bea41ab9a)
 
 Insights
 
