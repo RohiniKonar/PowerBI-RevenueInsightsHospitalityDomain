@@ -2,7 +2,7 @@
 
 Data
 
-The data was picked from Code basics project challenge wherein the dataset is provided and asked to help the revenue team to provide insights to make actionable business decisions.
+The data was picked from Code basics project challenge wherein the dataset was provided and asked to help the revenue team to provide insights to make actionable business decisions.
 
 Introduction
 
@@ -30,6 +30,6 @@ Insights
 
 Interesting learning:
 
-1. WoW change measure is a very useful measure which tells us the change in business week on week basis.
+1. WoW (week on week) change measure is a very useful measure which tells us the change in business week on week basis.
 2. Used tooltip with the KPI's to show trends on weekly basis for all the months.
 3. How conditional formating can be used to create interactive dashboard (week on week basis increase and decrease in KPI's).
